@@ -1,0 +1,15 @@
+{
+  "name": "grouprankbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aron",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "noblox.js": "^4.7.3"
+  }
+}
