@@ -1,7 +1,6 @@
 {
   "name": "grouprankbot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "dependencies": {
     "discord.js": "^12.4.1",
     "noblox.js": "^4.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progamerprop/grouprankerpol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/progamerprop/grouprankerpol/issues"
+  },
+  "homepage": "https://github.com/progamerprop/grouprankerpol#readme",
+  "description": ""
 }
