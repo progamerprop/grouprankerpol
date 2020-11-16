@@ -15,7 +15,7 @@ var minrank = 14
 
 
 function login() {
-    return noblox.cookieLogin(process.env.cookie);
+    return noblox.cookieLogin(cookie);
 }
  
 login()
